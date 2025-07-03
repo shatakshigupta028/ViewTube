@@ -1,11 +1,10 @@
 # 🎬 ViewTube
 
-ViewTube is a responsive and fast YouTube clone built with React, Material UI, and the YouTube Data API v3. It allows users to search, browse, and watch videos with a clean UI and smooth experience across all devices.
+A responsive and fast YouTube clone built with **React**, **Material UI**, and the **YouTube Data API v3**. Search and watch videos in real-time with a clean and modern UI. 
 ---
 
 ## 📸 Preview
 
-![ViewTube Preview]
 ![image](https://github.com/user-attachments/assets/47187132-6acd-4335-8aa5-d33b3cf50cec)
 
 
