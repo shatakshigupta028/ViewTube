@@ -44,13 +44,3 @@ const handleSubmit = (e) => {
 }
 
 export default SearchBar
-
-// error-- bc IconButton type="submit" 
-// single quotes me likhdia 
-/* Use Case	Use This
-JS strings	'single' (default)
-String with apostrophe	"double"
-Template strings	`backticks`
-JSX props (HTML style)	"double" quotes
-Inject JS inside JSX	{likeThis}
-*/

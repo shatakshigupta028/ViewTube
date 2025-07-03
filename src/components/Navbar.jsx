@@ -31,5 +31,3 @@ export default Navbar
 
 
 
-/*bkl ye error thi img src="{logo}"  30min lag gye bc
- bro its img src={logo} we dont */

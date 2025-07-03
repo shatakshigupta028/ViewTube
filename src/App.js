@@ -19,6 +19,3 @@ const App = () => (
 );
  
 export default App
-
-/* shortcut for path intellisense is ctrl space*/
-/*ctrl click to go a component */

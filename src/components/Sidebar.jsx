@@ -36,5 +36,3 @@ const Sidebar = ({selectedCategory, setSelectedCategory}) => {
 }
 
 export default Sidebar
-
-//shortcut for duplicate selection -- shift d
