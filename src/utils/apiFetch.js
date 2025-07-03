@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const BASE_URL = "https://www.googleapis.com/youtube/v3";
-const API_KEY = 'AIzaSyAaPcJX697lWQfEglHTKXrse3PM1tKPkF4';
+const API_KEY = process.env.REACT_APP_API_KEY;
 
 
 // ✅ General-purpose fetch function
